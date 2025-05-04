@@ -1,15 +1,4 @@
-Maila
-naila
-kashaf
-maila
-naila
-kashaf
-maila
-naila
-kashaf
-maila
-naila
-kashaf
-maila
-naila
-kashaf
+Python File Handling
+Line 1
+Line 2
+Appended line
